@@ -91,6 +91,7 @@
   html,
   body {
     overflow-x: hidden;
+    height: 100vh;
   }
   .nav-container {
     padding-left: 7%;
